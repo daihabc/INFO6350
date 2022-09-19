@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Assignment1
+//  assignment1
 //
 //  Created by X D on 9/18/22.
 //
